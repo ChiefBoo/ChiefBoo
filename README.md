@@ -4,7 +4,7 @@ Hi 👋 My name is Boo
 I study at school 21. I really love data and look for patterns and meaning in everything. I have an education in the IT field. I am very interested in computer vision and data science. I started with C, C++, then I wanted to learn Python. I love something new and love to learn.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [pgk-04@mail.ru](mailto:pgk-04@mail.ru)
+* ✉️  You can contact me at @pgk_04
 
 ### Skills
 
